@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/muthu17ks/muthu17ks/blob/main/banner.png?raw=true" width="100%" alt="Muthukumaran - Full Stack Developer" />
+  <img src="https://github.com/muthu17ks/muthu17ks/blob/main/Background Image.png?raw=true" width="100%" alt="Muthukumaran - Full Stack Developer" />
 </div>
 
 <div align="center">
