@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Muthu-Mkode/Muthu-Mkode/blob/main/banner.jpg?raw=true" width="100%" alt="Muthukumaran Banner" />
+  <img src="https://github.com/Muthu-Mkode/Muthu-Mkode/blob/main/background-image.png?raw=true" width="100%" alt="Muthukumaran Banner" />
 </div>
 
 <div align="center">
