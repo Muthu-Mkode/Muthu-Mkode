@@ -1,78 +1,87 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hi,%20I%20am%20Muthu&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=25&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=MUTHUKUMARAN&fontSize=70&fontColor=38bdf8&fontAlign=50&desc=PYTHON%20BACKEND%20DEVELOPER&descSize=20&descAlign=78&descAlignY=65" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-
-  <h2 align="center">Fancy seeing you here! 👋</h2>
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Building+Scalable+Python+Systems;Crafting+Modern+Web+Apps;Automating+Complex+Workflows" alt="Typing SVG" /></a>
   
-  <p align="center">
-    I am <b>Muthukumaran</b>, a passionate <b>Python Developer</b> and tech enthusiast. <br>
-    I specialize in building efficient back-end systems, automating workflows, and creating interactive web applications. <br>
-    Currently focusing on <b>Flask, SQLAlchemy</b>, and mastering <b>Python</b> to build scalable solutions.
+  <p>
+    Focused on <b>Flask, SQLAlchemy, and Backend Architecture</b>. <br>
+    I turn complex problems into clean, efficient code.
   </p>
 
-  <p align="center">
-    <a href="https://github.com/muthu17ks" target="_blank">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <p>
+    <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=1e293b" alt="LinkedIn"/>
     </a>
     <a href="mailto:your-email@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=1e293b" alt="Email"/>
     </a>
-    <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    <a href="https://instagram.com/your-handle">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=1e293b" alt="Instagram"/>
     </a>
   </p>
 </div>
 
----
+<br>
 
-### ⚡ Technologies
+<h3 align="center">⚡ The Arsenal</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=1e293b" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=1e293b" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white&color=1e293b" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=1e293b" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=1e293b" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1e293b" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=1e293b" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=1e293b" />
+</div>
 
-<div align="left"> 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<br>
+
+<h3 align="left">&nbsp;&nbsp;&nbsp;🚀 Top Projects</h3>
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/muthu17ks/cafe-finder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muthu17ks&repo=cafe-finder&theme=tokyonight&bg_color=0f172a&hide_border=true&icon_color=38bdf8&title_color=38bdf8" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/muthu17ks/ghostwriter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muthu17ks&repo=ghostwriter&theme=tokyonight&bg_color=0f172a&hide_border=true&icon_color=38bdf8&title_color=38bdf8" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/muthu17ks/personal-finance-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muthu17ks&repo=personal-finance-app&theme=tokyonight&bg_color=0f172a&hide_border=true&icon_color=38bdf8&title_color=38bdf8" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/muthu17ks/pdf-to-speech">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=muthu17ks&repo=pdf-to-speech&theme=tokyonight&bg_color=0f172a&hide_border=true&icon_color=38bdf8&title_color=38bdf8" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<h3 align="left">&nbsp;&nbsp;&nbsp;📊 GitHub Analytics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthu17ks&layout=compact&theme=tokyonight&bg_color=0f172a&hide_border=true&title_color=38bdf8&langs_count=6" height="150" alt="Top Languages" />
   
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muthu17ks&show_icons=true&theme=tokyonight&bg_color=0f172a&hide_border=true&title_color=38bdf8&icon_color=38bdf8&hide=contribs" height="150" alt="Stats" />
 </div>
 
 <br>
 
-### 🔭 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Cafe Finder** | A responsive website designed to help users discover and view data about local cafes. Features a clean UI and structured data display. | `HTML`, `CSS`, `Python` |
-| **The Ghostwriter** | A desktop text editor application built to encourage continuous writing. Includes custom file handling and a distraction-free mode. | `Python`, `Tkinter` |
-| **Snake / Breakout** | A classic arcade game recreation featuring collision detection, score tracking, and increasing difficulty levels. | `Python`, `Turtle/Pygame` |
-| **PDF-to-Audio** | *[In Progress]* An automation script utilizing Text-To-Speech APIs to convert PDF documents into listenable audiobooks. | `Python`, `APIs` |
-
-<br>
-
-### 🎯 2026 Goals
-* **Mastery:** Deepening knowledge in **Web Development** with Flask & Database Management.
-* **Build:** Launching the "Personal Finance App" for family expense tracking.
-* **Contribute:** Actively contributing to Open Source Python repositories.
-
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muthu17ks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Muthu's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthu17ks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="180"/>
-</div>
-
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muthu17ks&label=Profile%20Views&color=blue&style=flat-square" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=muthu17ks&label=PROFILE+VIEWS&color=0f172a&style=flat-square&label_color=38bdf8" alt="Views" />
 </div>
