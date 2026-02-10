@@ -22,23 +22,28 @@ I specialize in bridging the gap between complex back-end logic and user-friendl
 <h3 align="left" style="color: #334155;">&nbsp;&nbsp;🛠️ The Arsenal</h3>
 <div align="left">
 &nbsp;&nbsp;
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,mysql,git,vscode&theme=light" />
-</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 <br>
 
 <h3 align="left" style="color: #334155;">&nbsp;&nbsp;🚀 Featured Work</h3>
 <div align="center">
-<table border="0" width="95%">
+<table border="0" width="95%" style="table-layout: fixed;">
 <tr>
 <td width="50%" valign="top" style="padding: 15px; border: 1px solid #e2e8f0; border-radius: 10px;">
 <h3 align="left" style="margin-bottom: 5px;">🏫 Departmental Website</h3>
-<table border="0" width="100%">
+<table border="0" width="100%" style="table-layout: fixed;">
 <tr>
-<td align="left" style="font-size: 13px; color: #666;">
-Official website for the Computer Science department at Vels University.
+<td align="left" style="font-size: 13px; color: #666; word-wrap: break-word;">
+Official website for the CS department at Vels University.
 </td>
 <td align="right" width="100">
 <a href="https://github.com/Muthu-Mkode/Departmental-Website">
@@ -55,10 +60,10 @@ Official website for the Computer Science department at Vels University.
 </td>
 <td width="50%" valign="top" style="padding: 15px; border: 1px solid #e2e8f0; border-radius: 10px;">
 <h3 align="left" style="margin-bottom: 5px;">🐍 Snake Game</h3>
-<table border="0" width="100%">
+<table border="0" width="100%" style="table-layout: fixed;">
 <tr>
-<td align="left" style="font-size: 13px; color: #666;">
-A classic Snake Game recreation designed purely using Python logic.
+<td align="left" style="font-size: 13px; color: #666; word-wrap: break-word;">
+Classic Snake Game recreation designed purely using Python logic.
 </td>
 <td align="right" width="100">
 <a href="https://github.com/Muthu-Mkode/Snake-Game">
@@ -77,9 +82,9 @@ A classic Snake Game recreation designed purely using Python logic.
 <tr>
 <td width="50%" valign="top" style="padding: 15px; border: 1px solid #e2e8f0; border-radius: 10px;">
 <h3 align="left" style="margin-bottom: 5px;">💼 Workplace</h3>
-<table border="0" width="100%">
+<table border="0" width="100%" style="table-layout: fixed;">
 <tr>
-<td align="left" style="font-size: 13px; color: #666;">
+<td align="left" style="font-size: 13px; color: #666; word-wrap: break-word;">
 JavaScript-based workspace environment and utility collection.
 </td>
 <td align="right" width="100">
@@ -97,9 +102,9 @@ JavaScript-based workspace environment and utility collection.
 </td>
 <td width="50%" valign="top" style="padding: 15px; border: 1px solid #e2e8f0; border-radius: 10px;">
 <h3 align="left" style="margin-bottom: 5px;">👤 Mkode Portfolio</h3>
-<table border="0" width="100%">
+<table border="0" width="100%" style="table-layout: fixed;">
 <tr>
-<td align="left" style="font-size: 13px; color: #666;">
+<td align="left" style="font-size: 13px; color: #666; word-wrap: break-word;">
 My personal portfolio website showcasing my development journey.
 </td>
 <td align="right" width="100">
