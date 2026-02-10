@@ -101,7 +101,9 @@
 
 <h3 align="center" style="color: #334155;">📊 Top Languages</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthu-Mkode&layout=compact&theme=transparent&hide_border=true&title_color=0D9488&langs_count=6&hide_title=true" height="130" alt="Languages" />
+  <img src="https://img.shields.io/badge/Python-45%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-30%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </div>
 
 <br>
