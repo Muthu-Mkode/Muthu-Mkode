@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Muthu-Mkode/Muthu-Mkode/blob/main/background-image.png?raw=true" width="100%" alt="Muthukumaran Banner" />
+  <img src="https://github.com/Muthu-Mkode/Muthu-Mkode/blob/main/background-image.png?raw=true" width="100%" alt="Banner" />
 </div>
 
 <div align="center">
@@ -33,31 +33,75 @@
 
 <h3 align="center" style="color: #334155;">🚀 Featured Work</h3>
 <div align="center">
-  <p>
-    <a href="https://github.com/Muthu-Mkode/Departmental-Website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthu-Mkode&repo=Departmental-Website&theme=transparent&bg_color=ffffff&title_color=0f172a&icon_color=0D9488" alt="Departmental Website" />
-    </a>
-    <a href="https://github.com/Muthu-Mkode/Snake-Game">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthu-Mkode&repo=Snake-Game&theme=transparent&bg_color=ffffff&title_color=0f172a&icon_color=0D9488" alt="Snake Game" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/Muthu-Mkode/workplace">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthu-Mkode&repo=workplace&theme=transparent&bg_color=ffffff&title_color=0f172a&icon_color=0D9488" alt="Workplace" />
-    </a>
-    <a href="https://github.com/Muthu-Mkode/Mkode-Portfolio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muthu-Mkode&repo=Mkode-Portfolio&theme=transparent&bg_color=ffffff&title_color=0f172a&icon_color=0D9488" alt="Portfolio" />
-    </a>
-  </p>
+  <table border="0" width="95%">
+    <tr>
+      <td width="50%" align="center" valign="top" style="padding: 10px;">
+        <h3 align="center">🏫 Departmental Website</h3>
+        <p align="center" style="font-size: 13px; color: #666;">
+           Official website for the Computer Science department at Vels University.
+        </p>
+        <div align="center">
+            <a href="https://github.com/Muthu-Mkode/Departmental-Website">
+                <img src="https://img.shields.io/badge/View_Code-0f172a?style=flat&logo=github&logoColor=white"/>
+            </a>
+            <br>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        </div>
+      </td>
+      <td width="50%" align="center" valign="top" style="padding: 10px;">
+        <h3 align="center">🐍 Snake Game</h3>
+        <p align="center" style="font-size: 13px; color: #666;">
+           A classic Snake Game recreation designed purely using Python logic.
+        </p>
+        <div align="center">
+            <a href="https://github.com/Muthu-Mkode/Snake-Game">
+                <img src="https://img.shields.io/badge/View_Code-0f172a?style=flat&logo=github&logoColor=white"/>
+            </a>
+            <br>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Game_Logic-2ea44f?style=flat-square"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top" style="padding: 10px;">
+        <h3 align="center">💼 Workplace</h3>
+        <p align="center" style="font-size: 13px; color: #666;">
+           JavaScript-based workspace environment and utility collection.
+        </p>
+        <div align="center">
+            <a href="https://github.com/Muthu-Mkode/workplace">
+                <img src="https://img.shields.io/badge/View_Code-0f172a?style=flat&logo=github&logoColor=white"/>
+            </a>
+            <br>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Web-teal?style=flat-square"/>
+        </div>
+      </td>
+      <td width="50%" align="center" valign="top" style="padding: 10px;">
+        <h3 align="center">👤 Mkode Portfolio</h3>
+        <p align="center" style="font-size: 13px; color: #666;">
+           My personal portfolio website showcasing my development journey.
+        </p>
+        <div align="center">
+            <a href="https://github.com/Muthu-Mkode/Mkode-Portfolio">
+                <img src="https://img.shields.io/badge/View_Code-0f172a?style=flat&logo=github&logoColor=white"/>
+            </a>
+            <br>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat-square"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<h3 align="center" style="color: #334155;">📊 Activity</h3>
+<h3 align="center" style="color: #334155;">📊 Top Languages</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muthu-Mkode&theme=transparent&hide_border=true&fire=E25822&ring=0D9488&currStreakLabel=0D9488" alt="Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthu-Mkode&layout=compact&theme=transparent&hide_border=true&title_color=0D9488&langs_count=6" height="140" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthu-Mkode&layout=compact&theme=transparent&hide_border=true&title_color=0D9488&langs_count=6&hide_title=true" height="130" alt="Languages" />
 </div>
 
 <br>
