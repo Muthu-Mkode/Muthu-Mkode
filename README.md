@@ -5,7 +5,7 @@
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Building+Scalable+Python+Systems;Crafting+Elegant+Web+Solutions;Full+Stack+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Systems;Python+%26+JavaScript+Enthusiast" alt="Typing SVG" />
   </a>
   
   <p style="font-size: 16px; color: #555555;">
@@ -24,7 +24,7 @@
 <div align="center">
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,cpp,flask,html,css,mysql,git,vscode&theme=light" />
+      <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,mysql,git,vscode&theme=light" />
     </a>
   </p>
 </div>
@@ -33,47 +33,55 @@
 
 <h3 align="center" style="color: #334155;">🚀 Featured Work</h3>
 <div align="center">
-  <table border="0" width="90%">
+  <table border="0" width="95%">
     <tr>
       <td width="50%" align="center" valign="top">
-        <b>☕ Cafe Finder</b>
+        <a href="https://github.com/Muthu-Mkode/Departmental-Website">
+            <b>🏫 Departmental Website</b>
+        </a>
         <br>
         <p align="center" style="font-size: 13px; color: #666;">
-           A platform to discover and rate local coffee spots.
+           Official source code for the Computer Science department website at Vels University.
         </p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
       </td>
       <td width="50%" align="center" valign="top">
-        <b>👻 The Ghostwriter</b>
+        <a href="https://github.com/Muthu-Mkode/Snake-Game">
+            <b>🐍 Snake Game</b>
+        </a>
         <br>
         <p align="center" style="font-size: 13px; color: #666;">
-           Distraction-free writing tool that keeps you moving.
+           A classic Snake Game recreation designed purely using Python logic.
         </p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Game_Logic-2ea44f?style=flat-square"/>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" valign="top">
         <br>
-        <b>💰 Personal Finance</b>
+        <a href="https://github.com/Muthu-Mkode/workplace">
+            <b>💼 Workplace</b>
+        </a>
         <br>
         <p align="center" style="font-size: 13px; color: #666;">
-           Automated expense tracking and family budgeting.
+           JavaScript-based workspace environment and utility collection.
         </p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Web-teal?style=flat-square"/>
       </td>
       <td width="50%" align="center" valign="top">
         <br>
-        <b>🔊 PDF-to-Speech</b>
+        <a href="https://github.com/Muthu-Mkode/Mkode-Portfolio">
+            <b>👤 Mkode Portfolio</b>
+        </a>
         <br>
         <p align="center" style="font-size: 13px; color: #666;">
-           Convert documents to audiobooks instantly.
+           My personal portfolio website showcasing my development journey.
         </p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=flat-square"/>
       </td>
     </tr>
   </table>
