@@ -1,70 +1,102 @@
 <div align="center">
-  <img src="https://github.com/muthu17ks/muthu17ks/blob/main/background-image.png?raw=true" width="100%" alt="Muthukumaran - Full Stack Developer" />
+  <img src="https://github.com/Muthu-Mkode/Muthu-Mkode/blob/main/banner.jpg?raw=true" width="100%" alt="Muthukumaran Banner" />
 </div>
 
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Building+Scalable+Python+Systems;Crafting+Modern+Web+Applications;Automating+Real-World+Tasks" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Building+Scalable+Python+Systems;Crafting+Elegant+Web+Solutions;Full+Stack+Engineering" alt="Typing SVG" />
   </a>
   
-  <p style="font-size: 16px; color: #374151;">
-    I am a <b>Full Stack Developer</b> focused on building efficient, scalable, and user-centric solutions.
+  <p style="font-size: 16px; color: #555555;">
+    <b>Efficient Code. Clean Design. Real Impact.</b><br>
+    I specialize in bridging the gap between complex back-end logic and user-friendly front-end design.
   </p>
 </div>
 
 <br>
-<hr style="border: 1px solid #4F46E5; width: 50%; margin: auto;">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</div>
 <br>
 
-<h3 align="center" style="color: #4F46E5;">⚡ The Arsenal</h3>
+<h3 align="center" style="color: #0F172A;">🛠️ The Tech Stack</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=4F46E5" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=4F46E5" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=4F46E5" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=4F46E5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=4F46E5" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white&color=4F46E5" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=4F46E5" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=4F46E5" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=2dd4bf" />
+  <img src="https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=c%2B%2B&logoColor=2dd4bf" />
+  <img src="https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=2dd4bf" />
+  <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=2dd4bf" />
+  <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=2dd4bf" />
+  <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=2dd4bf" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-0F172A?style=for-the-badge&logo=sqlalchemy&logoColor=2dd4bf" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=2dd4bf" />
 </div>
 
 <br>
 
-<h3 align="center" style="color: #4F46E5;">🚀 Featured Projects</h3>
+<h3 align="center" style="color: #0F172A;">🚀 Featured Work</h3>
 <div align="center">
   <table border="0" width="90%">
     <tr>
-      <td width="50%" align="center" valign="top" style="padding: 20px;">
-        <h3 align="center" style="color: #1F2937;">☕ Cafe Finder</h3>
-        <p align="center" style="color: #4B5563;">
-          A full-stack website to help users discover and rate local cafes. Features structured data display and a clean UI.
-          <br><br>
-          <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=4F46E5"/>
-          <img src="https://img.shields.io/badge/HTML%2FCSS-1e293b?style=flat-square&logo=html5&logoColor=4F46E5"/>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github.com/Muthu-Mkode/Muthu-Mkode/assets/placeholder.png" width="0" height="10"> <b>☕ Cafe Finder</b>
+        <br>
+        <p align="center" style="font-size: 13px; color: #666;">
+           A platform to discover and rate local coffee spots.
         </p>
+        <img src="https://img.shields.io/badge/Python-teal?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web-teal?style=flat-square&logo=html5&logoColor=white"/>
       </td>
-      <td width="50%" align="center" valign="top" style="padding: 20px;">
-        <h3 align="center" style="color: #1F2937;">👻 The Ghostwriter</h3>
-        <p align="center" style="color: #4B5563;">
-          A distraction-free desktop text editor built with Python & Tkinter. Designed to encourage continuous writing flow.
-          <br><br>
-          <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=4F46E5"/>
-          <img src="https://img.shields.io/badge/Tkinter-1e293b?style=flat-square&logo=python&logoColor=4F46E5"/>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github.com/Muthu-Mkode/Muthu-Mkode/assets/placeholder.png" width="0" height="10"> <b>👻 The Ghostwriter</b>
+        <br>
+        <p align="center" style="font-size: 13px; color: #666;">
+           Distraction-free writing tool that keeps you moving.
         </p>
+        <img src="https://img.shields.io/badge/Python-teal?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tkinter-teal?style=flat-square&logo=windows&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center" valign="top" style="padding: 20px;">
-        <h3 align="center" style="color: #1F2937;">💰 Personal Finance App</h3>
-        <p align="center" style="color: #4B5563;">
-          An automated expense tracker that categorizes spending and visualizes budget data for family management.
-          <br><br>
-          <img src="https://img.shields.io/badge/Flask-1e293b?style=flat-square&logo=flask&logoColor=4F46E5"/>
-          <img src="https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=mysql&logoColor=4F46E5"/>
+      <td width="50%" align="center" valign="top">
+        <br>
+        <b>💰 Personal Finance</b>
+        <br>
+        <p align="center" style="font-size: 13px; color: #666;">
+           Automated expense tracking and family budgeting.
         </p>
+        <img src="https://img.shields.io/badge/Flask-teal?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-teal?style=flat-square&logo=mysql&logoColor=white"/>
       </td>
-      <td width="50%" align="center" valign="top" style="padding: 20px;">
-        <h3 align="center" style="color: #1F2937;">🔊 PDF-to-Speech</h3>
-        <p align="center" style="color: #4B5563;">
-          Automation script that converts PDF documents into audiobooks using Text
+      <td width="50%" align="center" valign="top">
+        <br>
+        <b>🔊 PDF-to-Speech</b>
+        <br>
+        <p align="center" style="font-size: 13px; color: #666;">
+           Convert documents to audiobooks instantly.
+        </p>
+        <img src="https://img.shields.io/badge/Python-teal?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/APIs-teal?style=flat-square&logo=google-cloud&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h3 align="center" style="color: #0F172A;">📊 Activity</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthu-Mkode&layout=compact&theme=buefy&hide_border=true&title_color=0D9488&langs_count=6" height="140" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muthu-Mkode&show_icons=true&theme=buefy&hide_border=true&title_color=0D9488&icon_color=0D9488&hide=contribs" height="140" alt="Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:muthu17ks@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
